@@ -1,0 +1,5 @@
+DataSetMakerV2-Copy1.ipynb, DataSetMakerV2-Copy1.ipynb - Zajmują się tworzeniem datasetu (google trends + label)
+Forecaster-Copy1.ipynb - zajmuje się backtestem strategii
+ForecasterMakerImpove.ipynb - Zajmuje się predykcją na danych historycznych, które wykorzystuje Forecaster-Copy1
+Untitled5-Copy1.ipynb - zajmuje się tworzeniem datasetu do trenowania modeli ML, oraz trenowaniem 
+LiveDataFeed-Copy1.ipynb - uzyskanie aktualnej predykcji
